@@ -1,7 +1,7 @@
 # Site settings
 title: GJY Blog
 SEOTitle: 葛炯佑的博客 | GJY Blog
-header-img: img/PvZ.jpg
+header-img: img/https://ts1.cn.mm.bing.net/th/id/R-C.06679e31f3a08cc03496c17e91eb34fd?rik=ScCIceXioE4zVg&riu=http%3a%2f%2fimg3.downza.cn%2fdownload%2f201908%2f103910-5d6497ce81f23.jpg&ehk=xGLnZTjTOzbTtTV48Oif7hthLoDZUxpsIUZa4dfVicc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1
 email: 3494843559@qq.com
 description: "各位，这是一个领航员测试"
 keyword: "GJY, GJY Blog, 葛炯佑的博客, gejiongyou, 葛炯佑, iOS, Apple, iPhone"
@@ -18,12 +18,12 @@ sidebar-avatar: /img/甘雨.png      # use absolute URL, seeing it's used in bot
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     gejiongyou
+zhihu_username:     gejiongyou
+github_username:    Gcoin42
+facebook_username:  gejiongyou
+jianshu_username:   gejiongyou
+#twitter_username:   gejiongyou
 
 
 
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: Gcoin42
 
 # Gitalk
 gitalk:
