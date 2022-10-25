@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      (文章标题)
-subtitle:   (副标题)
-date:       2018-12-01
-author:     (作者名)
-header-img: img/the-first.png
+title:     A new begin from BlackWater Park
+subtitle:   Genshin Impact
+date:       2022-10-25
+author:     葛炯佑
+header-img: img/12.png
 catalog:   true
 tags:
-    - 往事如烟
+    - 愿面包与你同在
 ---
-# 一级标题
-## 二级标题
-（正文内容）
+# 嗯
+## 可以开始了
+让我想想，写点什么好呢？
