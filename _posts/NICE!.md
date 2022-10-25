@@ -7,7 +7,7 @@ author:     葛炯佑
 header-img: img/12.jpg
 catalog:   true
 tags:
-    - 愿面包与你同在
+    - 生活
 ---
 # 嗯
 ## 可以开始了
