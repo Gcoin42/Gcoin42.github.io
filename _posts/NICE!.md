@@ -4,7 +4,7 @@ title:     A new begin from BlackWater Park
 subtitle:   Genshin Impact
 date:       2022-10-25
 author:     葛炯佑
-header-img: img/12.png
+header-img: img/12.jpg
 catalog:   true
 tags:
     - 愿面包与你同在
