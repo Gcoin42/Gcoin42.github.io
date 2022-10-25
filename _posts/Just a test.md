@@ -7,7 +7,7 @@ author:      BY 						# 作者
 header-img: img/12.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    - 开始！！！
+    - 漫谈
 ---
 
 ## Hey
