@@ -12,7 +12,7 @@ github_repo: "https://github.com/Gcoin42/Gcoin42.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Genshin Impact!"
-sidebar-avatar: /img/.ganyu.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/.甘雨.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
