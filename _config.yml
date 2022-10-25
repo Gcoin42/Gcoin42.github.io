@@ -1,29 +1,29 @@
 # Site settings
 title: 葛炯佑 Blog
-SEOTitle: 葛炯佑的博客 | GJY Blog
-header-img: img/Dave.jpg
+SEOTitle: 柏葛炯佑的博客 | GJY Blog
+header-img: img/12.jpg
 email: 3494843559@qq.com
-description: "各位，这是一个领航员测试"
-keyword: "GJY, GJY Blog, 葛炯佑的博客, gejiongyou, 葛炯佑, iOS, Apple, iPhone"
+description: "May the force be with you."
+keyword: "GJY, GJY Blog, 葛炯佑的博客, Gcoin42, 葛炯佑, iOS, Apple, iPhone"
 url: "http://Gcoin42.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Gcoin42/Gcoin42.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "May the force be with you!"
-sidebar-avatar: /img/甘雨.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Genshin Impact!"
+sidebar-avatar: /img/.ganyu.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     gejiongyou
-zhihu_username:     gejiongyou
-github_username:    Gcoin42
-facebook_username:  gejiongyou
-jianshu_username:   gejiongyou
-#twitter_username:   gejiongyou
+# weibo_username:     qiubaiying
+zhihu_username:     qiubaiying
+github_username:    qiubaiying
+facebook_username:  baiying.qiu.7
+jianshu_username:   e71990ada2fd
+#twitter_username:   qiubaiying
 
 
 
@@ -56,17 +56,17 @@ kramdown:
 
 
 # 评论系统
- Disqus（https://disqus.com/）
- disqus_username: Gcoin42
+# Disqus（https://disqus.com/）
+# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying   #github用户名
-  admin:qiubaiying
+  owner: qiubaiying    #github用户名
+  admin: qiubaiying
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
