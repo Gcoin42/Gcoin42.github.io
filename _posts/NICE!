@@ -1,14 +1,14 @@
 ---
-layout:     post   				   
-title:      A new begin from BlackWater Park				
-subtitle:   Hello World, Hello Blog
-date:       2022-10-25				
-author:     葛炯佑 						
-header-img: img/12.jpg 	#这篇文章标题背景图片
-catalog: true 						
-tags:								
-    - 黑水
+layout:     post
+title:      (文章标题)
+subtitle:   (副标题)
+date:       2018-12-01
+author:     (作者名)
+header-img: img/the-first.png
+catalog:   true
+tags:
+    - 往事如烟
 ---
-
-#Hey
-开始吧
+# 一级标题
+## 二级标题
+（正文内容）
